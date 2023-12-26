@@ -8,7 +8,7 @@ public class DBConnection {
 		Connection con = null;
 		String url = "jdbc:mysql://localhost:3306/hrcdb";
 		String uname = "root";
-		String pass = "ABHiNAWg@v";
+		String pass = "likhith@123";
 		
 		try {
 			try {
